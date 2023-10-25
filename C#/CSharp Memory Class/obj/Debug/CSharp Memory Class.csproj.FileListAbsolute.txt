@@ -1,0 +1,7 @@
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\bin\Debug\CSharp Memory Class.exe.config
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\bin\Debug\CSharp Memory Class.exe
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\bin\Debug\CSharp Memory Class.pdb
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\obj\Debug\CSharp Memory Class.csproj.AssemblyReference.cache
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\obj\Debug\CSharp Memory Class.csproj.CoreCompileInputs.cache
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\obj\Debug\CSharp Memory Class.exe
+C:\Users\softw\OneDrive\Desktop\CSharp Memory Class\CSharp Memory Class\obj\Debug\CSharp Memory Class.pdb
